@@ -9,7 +9,7 @@ The repository contains the CAD files for the robotic system's components, provi
 ## Video Demonstration
 
 A detailed video overview of the robotic system and its functionalities is available here:
-[Robotic System Video Overview](https://www.youtube.com/watch?v=3Qvc4BNcIgs&ab_channel=DEEPKOTADIYA)
+[![Watch the video](https://img.youtube.com/vi/3Qvc4BNcIgs/maxresdefault.jpg)](https://youtu.be/3Qvc4BNcIgs)
 
 ## CAD Files
 
