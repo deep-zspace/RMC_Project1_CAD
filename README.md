@@ -21,14 +21,3 @@ The repository includes the following CAD files representing the key components 
 - `C_link2.SLDPRT` - Part file for the second connecting link.
 - `TCP.SLDPRT` - Part file for the tool center point component.
 
-## Contributing
-
-We welcome contributions from the community to advance this project further. If you have suggestions or improvements, please feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is open-sourced under the MIT license. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-Special thanks to all contributors and collaborators who have made this project possible. Your hard work and dedication are greatly appreciated.
